@@ -1,0 +1,25 @@
+.border {
+  width: 400px;
+  text-align: center;
+  margin: auto;
+}
+
+div.top{
+  background-color: purple;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+ color:white;
+ font-family: sans-serif;
+}
+
+div.middle{
+  background-color: white;
+  font-family: 'Coming Soon', cursive;
+
+}
+
+div.bottom{
+  background-color: purple;
+border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
