@@ -9,8 +9,7 @@ nav {
     margin: auto;
 }
 
-div.top {
-    background-color: hotpink;
+div.top {    background-color: hotpink;
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
     color: white;
@@ -21,6 +20,11 @@ div.middle {
     background-color: white;
     font-family: 'Coming Soon', cursive;
 }
+
+img {
+  text-align: center;
+}
+
 
 div.bottom {
     background-color: hotpink;
