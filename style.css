@@ -1,25 +1,42 @@
+nav {
+    text-align: center;
+    font-family: 'Coming Soon', cursive;
+}
+
 .border {
-  width: 400px;
-  text-align: center;
-  margin: auto;
+    width: 400px;
+    text-align: center;
+    margin: auto;
 }
 
-div.top{
-  background-color: purple;
-  border-top-right-radius: 50px;
-  border-top-left-radius: 50px;
- color:white;
- font-family: sans-serif;
+div.top {
+    background-color: hotpink;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    color: white;
+    font-family: sans-serif;
 }
 
-div.middle{
-  background-color: white;
-  font-family: 'Coming Soon', cursive;
-
+div.middle {
+    background-color: white;
+    font-family: 'Coming Soon', cursive;
 }
 
-div.bottom{
-  background-color: purple;
-border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
+div.bottom {
+    background-color: hotpink;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+div.bodytext {
+    background: url(http://www.desiglitters.com/wp-content/uploads/2015/03/Glittering-Pink-Stars.gif);
+}
+
+div.content {
+    font-family: 'Coming Soon', cursive;
+    background: rgba(255, 255, 255, 0.8);
+    width:70%;
+    margin: 10px auto;
+    padding: 20px;
+    list-style-position: inside;
 }
