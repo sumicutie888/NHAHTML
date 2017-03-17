@@ -44,3 +44,20 @@ div.content {
     padding: 20px;
     list-style-position: inside;
 }
+
+.center{
+  text-align: center;
+}
+
+img {
+  height:300px;
+  text-align: center;
+  width:300px;
+}
+
+
+  iframe{
+    height:200px;
+    text-align: center;
+    width:300px;
+  }
