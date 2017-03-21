@@ -1,0 +1,47 @@
+header {
+  text-align: center;
+  background-size: cover;
+  background-color: white;
+  color: black;
+  margin: 0px;
+}
+a {
+  color: black;
+  font-weight: bold;
+  margin: auto;
+  font-family: 'Sofia', cursive;
+}
+h1 {
+  font-size: 70px;
+  color:#c60372;;
+  font-family: 'Sofia', cursive;
+  text-align: center;
+}
+
+
+
+div.bodytext{
+  background:rgba(255,255,255,0.7);
+  width:70%;
+  margin: 20px auto;
+  font-family: 'Coming Soon', cursive;
+  padding: 20px;
+  text-align: center;
+  list-style-position:inside;
+}
+
+img {
+      margin: 40px 0px 0px 0px;
+      height: 300px;
+      width: : 300px;
+      margin: auto;
+    }
+
+  div.center {
+    text-align: center;
+  }
+
+  div.backgrounds{
+    background:url(https://media.giphy.com/media/C0Rvn1BlqQQgM/giphy.gif);
+    background-repeat:repeat;
+    text-align: center;

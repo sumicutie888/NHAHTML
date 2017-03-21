@@ -1,0 +1,121 @@
+.flag {
+  height:150px;
+  width:200px;
+  margin: 0;
+  padding: 0;
+  margin: auto;
+}
+
+.center {
+  background-color: #ffda6b;
+  width: 35%;
+  height: 100%;
+  display: inline-block;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Trident_logo.svg/113px-Trident_logo.svg.png);
+  background-size: 80px 80px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.sides {
+  background-color: #0061ff;
+  width: 30%;
+  height: 100%;
+  display: inline-block;
+}
+
+div.bodytext {
+    color: go
+    background-repeat: repeat;
+}
+
+div.content {
+    font-family: 'Coming Soon', cursive;
+    background: rgba(255, 255, 255, 0.8);
+    width:70%;
+    margin: 10px auto;
+    padding: 20px;
+    list-style-position: inside;
+    font-family: 'Coming Soon', cursive;
+
+}
+
+.center{
+  text-align: center;
+}
+
+img {
+  height:300px;
+  text-align: center;
+  width:300px;
+}
+
+header {
+  text-align: center;
+  background-size: cover;
+  background-color: white;
+  color: black;
+  margin: 0px;
+}
+a {
+  color: black;
+  font-weight: bold;
+}
+h1 {
+  font-size: 70px;
+  color:white;
+  font-family: 'Sofia', cursive;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+
+}
+li{
+  text-align: center;
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+div.bodytext{
+  background:rgba(255,255,255,0.7);
+  width:70%;
+  margin: 20px auto;
+  font-family: 'Coming Soon', cursive;
+  padding: 20px;
+  text-align: center;
+  list-style-position:inside;
+}
+div.video_only{
+  padding: 20px;
+  text-align: center;
+}
+img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+      height: 200px;
+      text-align: center;
+    }
+
+
+div.tops {
+  background:url(http://cdn.wallpapersafari.com/67/21/N6oGVq.jpg);
+  background-repeat:repeat;
+  text-align: center;
+}
+div.bottoms {
+  background:url(https://s-media-cache-ak0.pinimg.com/originals/f8/23/c4/f823c4373a2a5accf531b12fcdfc6f99.jpg);
+  background-repeat:repeat;
+  color: black;
+
+}
+div.bodytexts{
+  background:rgba(255,255,255,0.6);
+  width:70%;
+  margin: 20px auto;
+  font-family: 'Coming Soon', cursive;
+  padding: 20px;
+  text-align: center;
+}
