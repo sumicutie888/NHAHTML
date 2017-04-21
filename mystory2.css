@@ -45,3 +45,38 @@ img {
     background:url(https://media.giphy.com/media/C0Rvn1BlqQQgM/giphy.gif);
     background-repeat:repeat;
     text-align: center;
+
+    }
+
+    div.seed{
+      border-radius: 100px
+      background-color:#ffedc9;
+    }
+
+  div.bun{
+    text-align: center;
+    border-top-right-radius: 90%;
+    border-top-left-radius: 90%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    width:200px;
+    background-color:#fccc6c;
+    height:80px;
+    margin: auto;
+
+  }
+
+  div.patty{
+    width:198px;
+    margin: auto;
+    height:10px;
+    background-color: #934213;
+  }
+
+  div.cheese{
+    width:198px;
+    margin: auto;
+    height:8px;
+    background-color: #eab812;
+
+  }

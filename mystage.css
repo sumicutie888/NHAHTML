@@ -1,0 +1,32 @@
+.stage {
+      min-width: 2000px;
+      min-height: 1000px;
+      background-image: url(https://cdn.shutterstock.com/shutterstock/videos/7583299/thumb/10.jpg);
+      position: relative;
+      background-size: cover;
+    }
+
+div.size{
+  width: 500%;
+  height: 500%;
+}
+
+div.character{
+  bottom: 15%;
+  left: 15%;
+  position: absolute;
+}
+
+div.character2{
+  top: 15%;
+  right: 15%;
+  position: absolute;
+}
+
+div.character3{
+  left: 35%;
+  top: 40%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}

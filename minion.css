@@ -1,0 +1,22 @@
+img {
+    height: 275px;
+}
+
+body {
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/05/a0/17/05a017dbb076122d63700f2998f6c7e4.jpg);
+    background-size: cover;
+    font-family: 'Coming Soon', cursive;
+}
+
+div.bodytext {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.carousel-inner>.item>img {
+    margin: 0 auto;
+}

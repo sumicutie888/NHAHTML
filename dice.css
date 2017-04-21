@@ -1,0 +1,147 @@
+body {
+  background-color: darkred;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.circle{
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+}
+
+#dice-1-dot-1{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+}
+
+#dice-2-dot-1{
+  top: 20%;
+  left: 20%;
+}
+
+#dice-2-dot-2{
+  right: 20%;
+  bottom: 20%;
+}
+
+#dice-3-dot-1{
+  left: 15%;
+  top: 15%;
+}
+
+#dice-3-dot-2{
+  right: 40%;
+  bottom: 40%;
+}
+
+#dice-3-dot-3{
+  right: 15%;
+  bottom: 15%;
+}
+
+#dice-4-dot-1{
+  position: absolute;
+  left: 15%;
+  top: 15%;
+}
+
+#dice-4-dot-2{
+  position: absolute;
+  right: 15%;
+  top: 15%;
+}
+
+#dice-4-dot-3{
+  position: absolute;
+  bottom: 15%;
+  left: 15%;
+}
+
+#dice-4-dot-4{
+  position: absolute;
+  bottom: 15%;
+  right: 15%;
+}
+
+#dice-5-dot-1{
+  position: absolute;
+  left: 15%;
+  top: 15%;
+}
+
+#dice-5-dot-2{
+  position: absolute;
+  right: 15%;
+  top: 15%;
+}
+
+#dice-5-dot-3{
+  position: absolute;
+  bottom: 15%;
+  left: 15%;
+}
+
+#dice-5-dot-4{
+  position: absolute;
+  bottom: 15%;
+  right: 15%;
+}
+
+#dice-5-dot-5{
+  position: absolute;
+  bottom: 40%;
+  right: 40%;
+}
+
+#dice-6-dot-1{
+  position: absolute;
+  left: 15%;
+  top: 15%;
+}
+
+#dice-6-dot-2{
+  position: absolute;
+  right: 15%;
+  top: 15%;
+}
+
+#dice-6-dot-3{
+  position: absolute;
+  left: 15%;
+  top: 40%;
+}
+
+#dice-6-dot-4{
+  position: absolute;
+  top: 40%;
+  right: 15%;
+}
+
+#dice-6-dot-5{
+  position: absolute;
+  bottom: 15%;
+  left: 15%;
+}
+
+#dice-6-dot-6{
+  position: absolute;
+  bottom: 15%;
+  right: 15%;
+}

@@ -1,0 +1,52 @@
+div.box{
+  border: 4px solid black;
+  display: inline-block;
+  width:auto;
+  height:auto;
+}
+
+div.a{
+  color:red;
+  font-family: 'Coming Soon';
+  border: 10px solid black;
+  text-align: center;
+  font-size: 100px;
+  background-color:#fff8dc;
+  width: 120px;
+  height: 120px;
+  margin: auto;
+}
+
+div.b{
+  color:blue;
+  border: 10px solid black;
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Coming Soon';
+  background-color:#fff8dc;
+  width: 120px;
+  height: 120px;
+  margin: auto;
+}
+
+div.c{
+  color:red;
+  border-width: 30px;
+  font-family: 'Coming Soon';
+  border: 10px solid black;
+  font-size: 100px;
+  text-align: center;
+  background-color:#fff8dc;
+  width: 120px;
+  height: 120px;
+  margin: auto;
+}
+
+div {
+  display: inline-block;
+}
+
+div.center{
+  text-align: center;
+  margin: auto;
+}
