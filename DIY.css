@@ -1,0 +1,31 @@
+
+
+body{
+  background:url(http://www.officialpsds.com/images/thumbs/Paint-Splatter-psd83522.png);
+  background-repeat;
+}
+
+.bodytext img{
+  border-radius: 20px;
+  border-style: groove;
+  border-color: white;
+  margin: 0px 10px 10px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+  height: 200px;
+  float:left;
+}
+
+div.bodytext{
+  background:rgba(255,255,255,0.7);
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  color:#af6ccc;
+  font-family: 'Sofia', cursive;
+  text-align: center;
+  font-size: 70px;
+}

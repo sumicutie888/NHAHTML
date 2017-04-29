@@ -1,0 +1,7 @@
+.box{
+  background-color:orange;
+  position:relative;
+  display:inline-block;
+  width:80px;
+  height:80px;
+}
