@@ -1,0 +1,148 @@
+body {
+    background-image: url(http://img1.picmix.com/output/stamp/normal/8/9/1/4/264198_d6166.gif), url(https://images.template.net/wp-content/uploads/2016/02/03065742/Free-chalkboard-black.jpg);
+    background-repeat: repeat;
+    border: 20px solid #632805;
+    border-style: ridge;
+    text-align: center;
+}
+
+img.logo {
+    width: 100%;
+    margin: 5px 0px;
+}
+
+h1.title {
+    font-size: 50px;
+    color: white;
+    font-family: 'Vibur', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2.subtitle {
+    font-size: 40px;
+    color: #ffd231;
+    font-family: 'Sofia', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+div.bodytext {
+    background: rgba(255, 255, 255, 0.7);
+    font-family: 'Coming Soon', cursive;
+}
+
+img {
+    border-style: groove;
+    border-color: white;
+    margin: 0px 10px 10px 0px;
+    text-align: center;
+    border: 20px solid red;
+    border-style: ridge;
+    width: 50%;
+    float: left;
+}
+
+#chart {
+  width: 100%;
+  height: auto;
+  border: 0 none;
+}
+
+#panda {
+    margin: 0 auto;
+    display: inline-block;
+    width: 100%;
+    border: 0 none;
+}
+
+div.center {
+    text-align: center;
+    margin: auto;
+}
+
+div.nametag {
+    width: 400px;
+    margin: auto;
+}
+
+div.top {
+    background-color: yellow;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    color: white;
+    font-family: 'Sofia', cursive;
+}
+
+div.middle {
+    background-color: white;
+    font-family: 'Coming Soon', cursive;
+}
+
+div.bottom {
+    background-color: blue;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+div.chalk {
+    position: absolute;
+    bottom: -280%;
+    left: 15%;
+}
+
+button {
+  font-size: 40px;
+}
+
+form {
+  margin-top: 2em;
+}
+
+.hide {
+  position: absolute;
+  left: -10000px;
+}
+
+label {
+  display: inline-block;
+  background: gray;
+  margin: 25px;
+  position: relative;
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 2px;
+  font-size: 1em;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+#happy {
+  ~ .option-happy {
+    cursor: url("https://cdn.shopify.com/s/files/1/1061/1924/files/Emoji_Icon_-_Happy.png?11214052019865124406"), auto;
+  }
+  &:checked ~ .option-happy {
+  background: green;
+  }
+}
+
+#sad {
+  ~ .option-sad {
+    cursor: url("http://images.catchnews.com/uploads/images/2016/04/17/emoji6.png"), auto;
+  }
+  &:checked ~ .option-sad {
+    background: red;
+  }
+}
+
+#meh {
+  ~ .option-meh {
+    cursor: url("https://s-media-cache-ak0.pinimg.com/originals/12/48/6c/12486cd71676e78479a66430dac3b201.png"), auto;
+  }
+  &:checked ~ .option-meh {
+    background: orange;
+  }
+}

@@ -1,0 +1,82 @@
+body {
+    background-image: url(http://img1.picmix.com/output/stamp/normal/8/9/1/4/264198_d6166.gif), url(https://static.pexels.com/photos/166651/pexels-photo-166651.jpeg);
+
+    background-repeat: repeat;
+
+    border-style: ridge;
+    text-align: center;
+}
+
+img.logo {
+    width: 100%;
+    margin: 5px 0px;
+}
+
+h1.title {
+    font-size: 50px;
+    color: white;
+    font-family: 'Vibur', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2.subtitle {
+    font-size: 40px;
+    color: #ffd231;
+    font-family: 'Sofia', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+div.bodytext {
+
+  background-image: url(https://wallpaperscraft.com/image/paper_crumpled_light_shadow_35117_1920x1080.jpg);
+border-radius: 10%
+  background-repeat: repeat;
+
+    font-family: 'Coming Soon', cursive;
+    padding: 5px;
+    margin: 0;
+}
+
+.bodytext img {
+
+    border-style: groove;
+    border-color: white;
+    margin: 0px 10px 10px 0px;
+    text-align: center;
+    border: 20px solid red;
+    border-style: ridge;
+    width: 50%;
+    float: left;
+}
+
+#chart {
+  width: 100%;
+  height: auto;
+  border: 0 none;
+}
+
+#panda {
+    margin: 0 auto;
+    display: inline-block;
+    width: 100%;
+    border: 0 none;
+}
+
+div.center {
+    text-align: center;
+    margin: auto;
+}
+
+div.nametag {
+    width: 400px;
+    margin: auto;
+}
+
+
+
+
+button {
+  font-size: 40px;
+}

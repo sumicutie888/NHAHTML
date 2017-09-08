@@ -1,17 +1,15 @@
-
-
 body{
   background:url(http://www.officialpsds.com/images/thumbs/Paint-Splatter-psd83522.png);
   background-repeat;
 }
 
 .bodytext img{
-  border-radius: 20px;
   border-style: groove;
   border-color: white;
   margin: 0px 10px 10px 0px;
-  border: 7px solid white;
-  border-radius: 20px;
+  text-align: center;
+  border: 20px solid #d608be;
+  border-style: ridge;
   height: 200px;
   float:left;
 }
@@ -19,13 +17,28 @@ body{
 div.bodytext{
   background:rgba(255,255,255,0.7);
   font-family: 'Coming Soon', cursive;
-  text-align: center;
+
+  padding-left: 0;
+  margin: 0;
+  width: auto;
 }
 
 h1 {
   font-size: 70px;
-  color:#af6ccc;
+  color:#ad42f4;
   font-family: 'Sofia', cursive;
   text-align: center;
   font-size: 70px;
+}
+
+div.frame{
+  border: 20px double #efaecc;
+  padding: 0;
+  margin: 0:
+  border-width: 50px;
+  display: inline-block;
+  width: auto;
+}
+div.center{
+  text-align: center;
 }
