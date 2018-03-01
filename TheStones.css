@@ -1,0 +1,38 @@
+body{
+  background-image: url(http://img1.picmix.com/output/stamp/normal/8/9/1/4/264198_d6166.gif), url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/J9H9WF0/galaxy-night-sky-animation-with-shining-light-particle-stars-flickering-on-colorful-blue-teal-pink-gradient-background_ssco1vgxe_thumbnail-full01.png);
+  background-repeat: repeat;
+
+}
+h1.title {
+    font-size: 50px;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2.subtitle {
+
+    color: #fcf9ff;
+    font-family: 'Sofia', cursive;
+    text-align: center;
+    font-size: 20px;
+}
+
+div.bodytext {
+    background: rgba(255, 255, 255, 0.7);
+    font-family: 'Coming Soon', cursive;
+    text-align: center;
+}
+
+img {
+
+
+    text-align: center;
+    width: 40%;
+
+}
+img.logo {
+    width: 100%;
+    margin: 5px 0px;
+}
